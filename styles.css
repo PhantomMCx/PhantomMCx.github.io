@@ -1,5 +1,7 @@
 body {
   background-image: url("https://images6.alphacoders.com/133/1330710.png");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 h1 {
