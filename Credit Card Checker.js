@@ -39,7 +39,7 @@ const validateCred = arr => {
       sum += arr[i];
     }
   }
-  return sum % 10 === 0
+  return sum % 10 === 0;
 };
 
 // console.log(validateCred(valid1)); // Should print true
