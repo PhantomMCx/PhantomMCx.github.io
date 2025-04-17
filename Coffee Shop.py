@@ -62,7 +62,7 @@ total = price * float(quantity_1)
 more = input("Anything else?\n")
 
 #If customer wants more items
-if more == "Yes":
+if more == "Yes" or "yes":
   order_2 = input("What else would you like?\n")
   
   if order_2 == "Frappuccino":
