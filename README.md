@@ -9,4 +9,4 @@ To access my website, please copy the link below and paste it into your URL:
 + PhantomMCx.github.io
 
 ## Future Additions
-More will be added in the future to compelte my portfolio
+More will be added in the future to compelete my portfolio
