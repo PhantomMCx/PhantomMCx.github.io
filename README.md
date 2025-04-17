@@ -6,7 +6,7 @@ This is my portfolio with the main collection of projects I have worked on durin
 ## Website
 To access my website, please use the link below:
 
-+ [Vincent's Website](www.PhantomMCx.github.io){target="_blank"}
++ [Vincent's Website](https://www.PhantomMCx.github.io){:target="_blank"}
 
 ## Future Additions
 More will be added in the future to compelte my portfolio
